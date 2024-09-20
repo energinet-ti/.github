@@ -1,0 +1,9 @@
+name: 📖 Documentation
+description: A documentation task
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Give a brief description of the documentation task.
