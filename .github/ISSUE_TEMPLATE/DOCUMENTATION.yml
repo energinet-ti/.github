@@ -1,6 +1,6 @@
 name: 📖 Documentation
 description: A documentation task
-labels: ["documentation"]
+type: Documentation
 body:
   - type: textarea
     id: description
