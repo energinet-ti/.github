@@ -1,19 +1,9 @@
 name: 🎯 Epic
 description: A large task with a tasklist
-labels: ["epic"]
+type: Epic
 body:
   - type: textarea
     id: description
     attributes:
       label: Description
       description: Give a brief description of the epic issue.
-
-  - type: textarea
-    id: tasklist
-    attributes:
-      label: Tasklist
-      description: List the tasks that need to be completed for this epic issue
-      value: |
-        - [ ] Task 1
-        - [ ] Task 2
-        - [ ] Task 3
