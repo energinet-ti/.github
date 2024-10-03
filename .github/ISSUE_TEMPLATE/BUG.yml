@@ -1,6 +1,6 @@
 name: 🐛 Bug
 description: File a bug report here
-labels: ["bug"]
+type: Bug
 body:
   - type: textarea
     id: description
