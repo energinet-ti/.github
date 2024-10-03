@@ -1,0 +1,9 @@
+name: 🏃🏻‍♂️ Task
+description: A specific piece of work
+type: Task
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Give a brief description of the task.

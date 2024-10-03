@@ -1,9 +1,0 @@
-name: 🧹 Chore
-description: A general task that does not fit into any other category
-labels: ["chore"]
-body:
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Give a brief description of the chore.
