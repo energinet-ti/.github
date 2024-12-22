@@ -1,5 +1,5 @@
 name: 🏃🏻‍♂️ Task
-description: A specific piece of work
+description: A general task, that is not concerned with code or documentation.
 type: Task
 body:
   - type: textarea
